@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: asfasdfas-dev
+  labels:
+    environment-id: env_1cf25f1c-1845-40e8-923c-61927ede93f5
+    project-id: project_c0273d39-39b5-441a-97dd-986bd1449b01
+    project-name: asfasdfas
+    environment-name: dev
+    organization-id: org_c50d7b26-1f2a-4a6e-b11e-469a86e002c8
